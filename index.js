@@ -27,7 +27,6 @@ function changeColor()
   {
     img = "url('./images/background2.jpg')"
   }
-  alert("Hello world!");
 
   document.body.style.background = img;
   var all = document.getElementsByTagName("*");
